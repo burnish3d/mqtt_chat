@@ -6,7 +6,7 @@ import paho.mqtt.subscribe as subscribe
 """ Silly MQTT chat client, for use in a Linux terminal
 run with your username as a command line argument
 There is a lot of silly ANSI escape character sequence stuff in here
-please don't take it too seriously. I don't recommend it at all
+please don't take it too seriously.
 """
 
 def get_chat_ip():
