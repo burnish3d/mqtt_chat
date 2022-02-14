@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
   long_description = fh.read()
 
 requirements = ["paho-mqtt"]
-version="0.1.1"
+version="0.1.2"
 setuptools.setup(
     name="mqtt_chat"
   , install_requires=requirements
@@ -16,7 +16,8 @@ setuptools.setup(
   , long_description = long_description
   , long_description_content_type="text/markdown"
   , url="https://github.com/burnish3d/mqtt_chat"
-  , packages=setuptools.find_packages()
+  , package_dir={'': 'src'}
+  , packages=["mqtt_chat"]
   , classifiers=[
         "Programming Language :: Python :: 3"
       , "License :: OSI Approved :: MIT License"]
