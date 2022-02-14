@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
   long_description = fh.read()
 
 requirements = ["paho-mqtt"]
-
+version="0.1.1"
 setuptools.setup(
     name="mqtt_chat"
   , install_requires=requirements
-  , version="0.1"
+  , version=version
   , author="Zachary Chandler"
   , author_email="zachary.c.me@gmail.com"
   , description="light weight mqtt chat client"

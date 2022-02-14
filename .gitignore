@@ -1,3 +1,10 @@
+
+# secrets
+secrets/
+
+#utility
+bumpver.py
+# Editor specific folders
 .vscode
 
 # Byte-compiled / optimized / DLL files
