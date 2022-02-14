@@ -1,8 +1,8 @@
 import time
 import sys
 import shutil
-import paho.mqtt.client as mqtt
-import paho.mqtt.subscribe as subscribe
+import paho.mqtt.client as mqtt # type: ignore
+import paho.mqtt.subscribe as subscribe # type: ignore
 
 
 def get_chat_ip():
