@@ -69,7 +69,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -177,7 +176,7 @@ Project Link: [https://github.com/burnish3d/mqtt_chat](https://github.com/burnis
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-->
+
 [contributors-shield]: https://img.shields.io/github/contributors/burnish3d/mqtt_chat.svg?style=for-the-badge
 [contributors-url]: https://github.com/burnish3d/mqtt_chat/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/burnish3d/mqtt_chat.svg?style=for-the-badge
@@ -189,7 +188,6 @@ Project Link: [https://github.com/burnish3d/mqtt_chat](https://github.com/burnis
 [license-shield]: https://img.shields.io/github/license/burnish3d/mqtt_chat.svg?style=for-the-badge
 [license-url]: https://github.com/burnish3d/mqtt_chat/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
--->
 [linkedin-url]: https://linkedin.com/in/chandlerzach
 [product-screenshot]: images/screenshot.png
 [product-installation]: images/install_mqtt_chat.gif
